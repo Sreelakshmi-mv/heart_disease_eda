@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.pkl
+*.db
+
+# Virtual environments
+env/
+venv/
+*.conda
+*.condarc
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
